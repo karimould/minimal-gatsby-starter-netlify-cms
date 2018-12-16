@@ -4,7 +4,7 @@
 
 **Note:** This starter is from https://github.com/netlify-templates/gatsby-starter-netlify-cms with some small changes
 
-This repo is a lightweight, minimal and clean gatsby netlify cms starter with just one component.
+This repo is a lightweight, minimal and gatsby netlify cms starter with just one component.
 It just has a Layout component with React-Helmet in it.
 Netlify CMS is configured for a blog and the index page.
 
@@ -28,7 +28,7 @@ After clicking that button, you’ll authenticate with GitHub and choose a repos
 
 ### Access Locally
 ```
-$ git clone https://github.com/karimould/clean-gatsby-starter-netlify-cms
+$ git clone https://github.com/karimould/minimal-gatsby-starter-netlify-cms
 $ cd [REPO_NAME]
 $ yarn
 $ npm run develop
@@ -41,7 +41,7 @@ $ npm run serve
 
 ## Getting Started (Without Netlify)
 ```
-$ gatsby new [SITE_DIRECTORY_NAME] https://github.com/karimould/clean-gatsby-starter-netlify-cms
+$ gatsby new [SITE_DIRECTORY_NAME] https://github.com/karimould/minimal-gatsby-starter-netlify-cms
 $ cd [SITE_DIRECTORY_NAME]
 $ npm run build
 $ npm run serve
